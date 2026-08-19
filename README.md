@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hassan Ali
 
-### Data Science Graduate | AI/ML Engineer | Computer Vision & Generative AI| Data Engineer 
+### Data Science Graduate | AI/ML Engineer | Data Engineer | Computer Vision & Generative AI
 
 I’m a Data Science graduate from Punjab University College of Information Technology (PUCIT), passionate about building practical AI solutions and turning real-world problems into intelligent, data-driven applications.
 
@@ -105,13 +105,28 @@ AI-powered event planning system using **LangGraph, FastAPI, Google Gemini, Supa
 
 ## 🤝 Let's Connect
 
+## 🤝 Let's Connect
+
 <p align="left">
-<a href="https://www.linkedin.com/in/hasan051/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+
 <a href="https://github.com/Hassan0-51" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<a href="https://www.linkedin.com/in/hasan051/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://tryhackme.com/p/hassanaliirfanali" target="_blank">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+
+<a href="https://www.kaggle.com/hassanali051" target="_blank">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+
+
 </p>
 
 ---
