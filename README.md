@@ -103,8 +103,9 @@ AI-powered event planning system using **LangGraph, FastAPI, Google Gemini, Supa
 
 ---
 
-## 🤝 Let's Connect
 
+
+## 🤝 Let's Connect
 
 <table>
   <tr>
@@ -131,8 +132,14 @@ AI-powered event planning system using **LangGraph, FastAPI, Google Gemini, Supa
       </a>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="mailto:your-email@gmail.com">
+        <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
 </table>
-
 
 
 </p>
