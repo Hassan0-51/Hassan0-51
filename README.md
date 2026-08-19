@@ -1,6 +1,6 @@
 # Hi 👋, I'm Hassan Ali
 
-### Data Science Graduate | AI/ML Engineer | Computer Vision & Generative AI
+### Data Science Graduate | AI/ML Engineer | Computer Vision & Generative AI| Data Engineer 
 
 I’m a Data Science graduate from Punjab University College of Information Technology (PUCIT), passionate about building practical AI solutions and turning real-world problems into intelligent, data-driven applications.
 
